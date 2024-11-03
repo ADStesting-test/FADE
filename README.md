@@ -1,4 +1,10 @@
-# 
+# We are sorry to mistakenly place the upload link for the experimental video in the data availability of the paper.
+
+
+# The new link for the experiment video is:
+```
+https://zenodo.org/records/14015455
+```
 
 The generation approach requires the following dependencies to run:
 

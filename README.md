@@ -28,8 +28,7 @@ Version: SVL 2021.3
 
 Other requirements: see in requirements.txt
 
-# Apollo - A high performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles
-
+# Apollo
 Website of Apollo: https://apollo.auto/
 
 Installation of Apollo 7.0: https://gitee.com/ApolloAuto/apollo/tree/v7.0.0

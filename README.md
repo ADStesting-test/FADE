@@ -1,7 +1,7 @@
-# We are sorry to mistakenly place the upload link for the experimental video in the data availability of the paper.
+# Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems
 
 
-# The new link for the experiment video is:
+# The link for experiment video is:
 ```
 https://zenodo.org/records/14015455
 ```

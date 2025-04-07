@@ -48,11 +48,7 @@ map: please put the "SanFrancisco-bin" and "Borregas Ave" in the map folder of A
 
    For the camera channel, you need to modify the output channel of the camera sensor of the corresponding vehicle in the SORA-LGSVL database from /apollo/sensor/camera/front_6mm/image/compressed to /apollo/sensor/zlding/camera/front_6mm/image/compressed；
 
-   ![image-20241031104857420](/home/zlding/.config/Typora/typora-user-images/image-20241031104857420.png)
-
    For the lidar channel, you need to modify the output channel of the camera sensor of the corresponding vehicle in the SORA-LGSVL database from /apollo/sensor/lidar128/compensator/PointCloud2 to /apollo/sensor/zlding/lidar128/compensator/PointCloud2.
-
-   ![image-20241031104828497](/home/zlding/.config/Typora/typora-user-images/image-20241031104828497.png)
 
 4. Run Camera or Lidar
 

@@ -51,19 +51,21 @@ map: please put the "SanFrancisco-bin" and "Borregas Ave" in the map folder of A
 
 4. Run Camera or Lidar
 
-   For the LiDAR channel, you need to go into Apollo7 and run
+   For injecting a Camera sensor fault model, you need to go into Apollo7 and run
 
    ```
    `bazel run //modules/myTest:camera`
    ```
 
-   For the camera channel, you need to go into apollo7 and run
+   For injecting a LiDAR sensor fault model, you need to go into apollo7 and run
 
    ```
    bazel run //modules/myTest:lidar
    ```
 
-5. Run scene
+   The type of sensor fault model is provided in the script using its name in the paper.
+
+5. Run test scenario
 
    Once the above is done, the channel will be established and you can start running the scene to test the fault injection effect. Go to.../lgsvl/PythonAPI/Mytest and run the main.py file.
 
